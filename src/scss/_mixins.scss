@@ -1,0 +1,4 @@
+@mixin responsive($device) {
+  color: blue;
+  @content;
+}
